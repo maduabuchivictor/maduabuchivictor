@@ -25,8 +25,9 @@ As an NYSC Corp member, I'm using this time to build real-world projects, sharpe
 
 ## 📂 Projects
 
-### 📘 [Student Record System](https://github.com/yourusername/student-record-system)
-A Java console app to manage student data using object-oriented programming and file handling.
+### 🏦 Simple Bank App (Java Console Application)
+
+A file-based Java console app that allows users to register, log in with a PIN, check balance, deposit, withdraw, and view transaction history. Built using OOP and CSV file handling.
 
 > 🔧 More projects and updates coming soon!
 
