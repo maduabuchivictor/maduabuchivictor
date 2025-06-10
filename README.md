@@ -4,7 +4,7 @@
 💻 Java Backend Engineer (in training) | NYSC Corp Member  
 📍 Port Harcourt, Nigeria  
 📧 viictorpatriick@gmail.com | 📱 08027160523  
-🔗 [LinkedIn]((https://www.linkedin.com/in/victor-maduabuchi)) | [GitHub](https://github.com/maduabuchivictor)
+🔗 [LinkedIn](https://www.linkedin.com/in/victor-maduabuchi) | [GitHub](https://github.com/maduabuchivictor)
 
 ---
 
