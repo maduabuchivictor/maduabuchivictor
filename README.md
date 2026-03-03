@@ -4,7 +4,7 @@
 💻 Currently focused on Front-End Development (HTML, CSS, JavaScript)  
 🌱 Learning daily and building real-world UI projects  
 🧠 Past experience with Java backend and file handling  
-📍 Based in Port Harcourt, Nigeria  
+📍 Based in Abuja, Nigeria  
 📫 Reach me at: viictorpatriick@gmail.com
 
 ---
